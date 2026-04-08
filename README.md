@@ -15,6 +15,7 @@ Está diseñado para ser muy seguro y rápido.
 
 
 INSTRUCCIONES DE USO
+
 El sistema funciona a través de tres modulos:
 
 Gestión de Clientes: Crea perfiles detallados que incluyen datos personales, historial de viajes y preferencias específicas para ofrecer una atención personalizada. También maneja un programa de puntos para premiar la fidelidad.

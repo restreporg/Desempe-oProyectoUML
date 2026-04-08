@@ -27,7 +27,7 @@ Control de Reservas y Pagos: Automatiza la venta, calculando totales, impuestos 
 
 ESTRUCTURA DE MODULOS
 
-1. Módulo de Clientes
+Módulo de Clientes
 identidad y personalización del servicio:
 
 Gestión de Identidad: Registra datos personales como nombre, documento, nacionalidad, dirección y contacto
@@ -35,7 +35,7 @@ Clasificación: Asigna un código único y define si el cliente es individual, u
 Perfil de Preferencias: Almacena gustos y observaciones personales para ofrecer viajes adaptados al perfil
 Fidelización e Historial: Rastrea las compras pasadas y gestiona un programa de puntos para otorgar beneficios
 
-2. Módulo de Paquetes Turísticos
+Módulo de Paquetes Turísticos
 catálogo digital de la empresa, gestionando toda la oferta y logística:
 
 Detalle del Viaje: Registra destinos, duración, transporte, alojamiento y nivel de dificultad
@@ -43,7 +43,7 @@ Actividades: Define qué servicios son fijos y cuáles son opcionales para el cl
 Tarifas Dinámicas: Gestiona precios según la temporada y aplica tarifas diferentes para adultos, niños o grupos
 Control de Inventario: Permite activar o desactivar ofertas y genera alertas si no se alcanza el mínimo de participantes
 
-3. Módulo de Reservas
+Módulo de Reservas
 automatiza la venta y el recaudo de dinero:
 
 Procesamiento de Ventas: Registra fechas, cantidades, descuentos e impuestos de forma automática
